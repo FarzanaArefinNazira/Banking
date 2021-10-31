@@ -1,0 +1,23 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+  background color:white;
+  box-sizing:border-box;
+  font-family:sans-serif;
+}
+.menu-bar{
+	background:blue;
+	text-align:center;
+}
+.menu-bar ul{
+	display:inline-flex;
+	list-style: none;
+	color:white;
+	}
+	.menu-bar ul li{
+
+		wdith:120px;
+		margin
+	}
