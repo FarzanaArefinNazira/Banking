@@ -214,8 +214,8 @@ if(empty($_POST["Last_Name"]))
              
       $mail->outPort= 587;
 
-      $mail->From = 'farzanaarefin862@gmail.com';
-      $mail->Password = '1110483866145570';
+      $mail->From = '';
+      $mail->Password = '';
       $mail->FromName = 'ipay';
       $mail->AddAddress($Email);
       $mail->WordWrap = 50;
