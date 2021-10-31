@@ -1,0 +1,40 @@
+body,html{
+
+	margin:100px;
+	padding:50px;
+	height:100%;
+	background:white;
+}
+.user_card{
+height:500px;
+margin-top:auto;
+width:500px;
+background: #f39c12;
+position:relative;
+display:center;
+justify-content:center;
+flex-direction:column;
+padding:100px;
+box-shadow:0 4px 10px 0 rgba(0,0,0,2),0 6px 20px 0 rgba(0,0,0,19);
+-webkit-box-shadow:0 4px 10px 0 rgba(0,0,0,2),0 6px 20px 0 rgba(0,0,0,19);
+-moz-box-shadow:0 4px 10px 0 rgba(0,0,0,2),0 6px 20px 0 rgba(0,0,0,19);
+border:5px;
+}
+.ipaylogo_container{
+ position:absolute;
+ height:80px;
+ width:80px;
+ top:10px;
+ border-radius: 50%;
+ background:white;
+ padding:10px;
+ text-align:center;
+}
+.ipaylogo{
+height:50px;
+width:50px;
+border-radius:30%;
+border:2px,blue;
+
+
+}
